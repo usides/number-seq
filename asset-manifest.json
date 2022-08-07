@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/number-seq/static/css/main.b758e871.css",
+    "main.js": "/number-seq/static/js/main.413b7bf3.js",
+    "static/media/aldrich-all-400-normal.woff": "/number-seq/static/media/aldrich-all-400-normal.6e37a5c53024ede7a162.woff",
+    "static/media/aldrich-latin-400-normal.woff2": "/number-seq/static/media/aldrich-latin-400-normal.bef403a4ff5eda63b4b1.woff2",
+    "index.html": "/number-seq/index.html",
+    "main.b758e871.css.map": "/number-seq/static/css/main.b758e871.css.map",
+    "main.413b7bf3.js.map": "/number-seq/static/js/main.413b7bf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b758e871.css",
+    "static/js/main.413b7bf3.js"
+  ]
+}
